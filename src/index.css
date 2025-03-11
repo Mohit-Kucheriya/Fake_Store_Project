@@ -14,3 +14,7 @@ body,
   padding: 0;
   overflow: hidden;
 }
+
+.toastBody {
+  font-family: "Poppins", sans-serif;
+}
